@@ -1,7 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 
-var noVar = true
 </script>
 
 <template>
